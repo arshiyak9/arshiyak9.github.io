@@ -48,9 +48,9 @@ Khan, Arshiya, and Chase Cotton. “Efficient Attack Detection in IOT Devices Us
 ### Academic Projects & Posters
 Below is the list of some formally documented projects that I have worked on
 
-- [Sound Classification using 1D-Convolutional Neural Networks](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Posters/SoundClassification.pdf)
-- [Defending against Adversarial Machine Learning In Image Recognition Models](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Posters/DefenseAgainstMLAttacks.pdf)
-- [TwitterBot Detection and Categorization](https://github.com/CyberSecurIt/CyberSecurIt.github.io/tree/master/Projects/%23BotAttack.pdf) 
+- [Sound Classification using 1D-Convolutional Neural Networks](https://github.com/arshiyak9/arshiyak9.github.io/blob/main/Posters/SoundClassification.pdf)
+- [Defending against Adversarial Machine Learning In Image Recognition Models](https://github.com/arshiyak9/arshiyak9.github.io/blob/main/Posters/DefenseAgainstMLAttacks.pdf)
+- [TwitterBot Detection and Categorization](https://github.com/arshiyak9/arshiyak9.github.io/blob/main/Projects/%23BotAttack.pdf) 
 
 
 ### M.S. Thesis
@@ -62,13 +62,13 @@ Below is the list of some formally documented projects that I have worked on
 
 Webinar
 
-- [International Webinar on "Offense vs. Defense: How to differentiate between offensive and defensive modes of cyber activity"](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Talks%20and%20Presentations/offenceVsDefence.pdf)
-- [Seminar on "Phishing Attacks" at English Language Institure at University of Delaware](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Talks%20and%20Presentations/Phishing.pdf)
+- [International Webinar on "Offense vs. Defense: How to differentiate between offensive and defensive modes of cyber activity"](https://github.com/arshiyak9/arshiyak9.github.io/blob/main/Talks%20and%20Presentations/offenceVsDefence.pdf)
+- [Seminar on "Phishing Attacks" at English Language Institure at University of Delaware](https://github.com/arshiyak9/arshiyak9.github.io/blob/main/Talks%20and%20Presentations/Phishing.pdf)
 
 Internal Talks
 
-- [Novelty Search in Evolutionary Computations](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Talks%20and%20Presentations/Novelty%20Search%20in%20Evolutionary%20Computations.pdf)
-- [Foundations of GPT-3](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Talks%20and%20Presentations/gpt3.pdf)
+- [Novelty Search in Evolutionary Computations](https://github.com/arshiyak9/arshiyak9.github.io/blob/main/Talks%20and%20Presentations/Novelty%20Search%20in%20Evolutionary%20Computations.pdf)
+- [Foundations of GPT-3](https://github.com/arshiyak9/arshiyak9.github.io/blob/main/Talks%20and%20Presentations/gpt3.pdf)
 
 
 ### Certifications
