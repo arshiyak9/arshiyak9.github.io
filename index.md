@@ -1,4 +1,5 @@
-## Welcome to GitHub Page of Arshiya Khan
+## Welcome to the GitHub Page of Arshiya Khan
+Visa status: EAD available awaiting PR
 
 [Google Scholar](https://scholar.google.com/citations?user=Jz96BT4AAAAJ)
 
