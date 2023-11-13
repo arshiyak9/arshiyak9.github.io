@@ -1,5 +1,6 @@
 ## Welcome to the GitHub Page of Arshiya Khan
 Work status: Valid EAD available
+
 Visa status: Approved i-140, awaiting PR
 
 [Google Scholar](https://scholar.google.com/citations?user=Jz96BT4AAAAJ)
