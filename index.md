@@ -1,7 +1,7 @@
 ## Welcome to the GitHub Page of Arshiya Khan
 Work status: Valid EAD available
 
-Visa status: Approved i-140, awaiting PR
+Visa status: Approved i-485, i-140, awaiting PR
 
 [Google Scholar](https://scholar.google.com/citations?user=Jz96BT4AAAAJ)
 
@@ -11,6 +11,28 @@ Visa status: Approved i-140, awaiting PR
 
 [LinkedIn](https://www.linkedin.com/in/arshiyak9)
 
+
+### Publications
+
+Arshiya Khan and Guannan Liu and Xing Gao, "Code Vulnerability Repair with Large Language Model using Context-Aware Prompt Tuning" [arXiv Preprint] [https://arxiv.org/abs/2409.18395]
+
+A. Khan and C. Cotton, "Detecting Attacks on IoT Devices using Featureless 1D-CNN," 2021 IEEE International Conference on Cyber Security and Resilience (CSR), 2021, pp. 461-466, doi: [10.1109/CSR51186.2021.9527910](https://ieeexplore.ieee.org/document/9527910)<br/>
+[arXiv Preprint](https://arxiv.org/abs/2109.03989)
+
+Khan, Arshiya, and Chase Cotton. “Efficient Attack Detection in IOT Devices Using Feature Engineering-Less Machine Learning.” International Journal of Computer Science and Information Technology, vol. 14, no. 6, 2022, pp. 47–64., [https://doi.org/10.5121/ijcsit.2022.14605](https://doi.org/10.5121/ijcsit.2022.14605).
+
+
+### Academic Projects & Posters
+Below is the list of some formally documented projects that I have worked on
+
+- [Sound Classification using 1D-Convolutional Neural Networks](https://github.com/arshiyak9/arshiyak9.github.io/blob/main/Posters/SoundClassification.pdf)
+- [Defending against Adversarial Machine Learning In Image Recognition Models](https://github.com/arshiyak9/arshiyak9.github.io/blob/main/Posters/DefenseAgainstMLAttacks.pdf)
+- [TwitterBot Detection and Categorization](https://github.com/arshiyak9/arshiyak9.github.io/blob/main/Projects/%23BotAttack.pdf) 
+
+
+### M.S. Thesis
+
+[Expansive Taxonomy Model of network traffic to perform machine learning based tasks like anomaly detection and malware classification](https://www.proquest.com/docview/2308191862?pq-origsite=gscholar&fromopenview=true)
 
 
 ### ML Skills
@@ -38,28 +60,6 @@ Visa status: Approved i-140, awaiting PR
 - Web Technologies: jQuery, React, HTML, CSS, JavaScript
 
 ```
-
-
-### Publications
-
-A. Khan and C. Cotton, "Detecting Attacks on IoT Devices using Featureless 1D-CNN," 2021 IEEE International Conference on Cyber Security and Resilience (CSR), 2021, pp. 461-466, doi: [10.1109/CSR51186.2021.9527910](https://ieeexplore.ieee.org/document/9527910)<br/>
-[arXiv Preprint](https://arxiv.org/abs/2109.03989)
-
-Khan, Arshiya, and Chase Cotton. “Efficient Attack Detection in IOT Devices Using Feature Engineering-Less Machine Learning.” International Journal of Computer Science and Information Technology, vol. 14, no. 6, 2022, pp. 47–64., [https://doi.org/10.5121/ijcsit.2022.14605](https://doi.org/10.5121/ijcsit.2022.14605).
-
-
-### Academic Projects & Posters
-Below is the list of some formally documented projects that I have worked on
-
-- [Sound Classification using 1D-Convolutional Neural Networks](https://github.com/arshiyak9/arshiyak9.github.io/blob/main/Posters/SoundClassification.pdf)
-- [Defending against Adversarial Machine Learning In Image Recognition Models](https://github.com/arshiyak9/arshiyak9.github.io/blob/main/Posters/DefenseAgainstMLAttacks.pdf)
-- [TwitterBot Detection and Categorization](https://github.com/arshiyak9/arshiyak9.github.io/blob/main/Projects/%23BotAttack.pdf) 
-
-
-### M.S. Thesis
-
-[Expansive Taxonomy Model of network traffic to perform machine learning based tasks like anomaly detection and malware classification](https://www.proquest.com/docview/2308191862?pq-origsite=gscholar&fromopenview=true)
-
 
 ### Talks and Webinars
 
