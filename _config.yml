@@ -1,6 +1,6 @@
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 gem "github-pages", group: :jekyll_plugins
 title: "Arshiya Khan"
-description: Ph.D. candidate at University of Delaware, USA
+description: Ph.D. candidate at the University of Delaware, USA
