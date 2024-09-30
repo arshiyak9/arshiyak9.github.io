@@ -7,7 +7,7 @@ Visa status: Approved i-485, i-140, awaiting PR
 
 [Medium Blog](https://arshiyak.medium.com/)
 
-[Resume](https://github.com/CyberSecurIt/CyberSecurIt.github.io/blob/master/Arshiya_khan_resume.pdf)
+[Resume](https://github.com/arshiyak9/arshiyak9.github.io/blob/main/Arshiya_khan_resume.pdf)
 
 [LinkedIn](https://www.linkedin.com/in/arshiyak9)
 
@@ -15,6 +15,8 @@ Visa status: Approved i-485, i-140, awaiting PR
 ### Publications
 
 Arshiya Khan and Guannan Liu and Xing Gao, "Code Vulnerability Repair with Large Language Model using Context-Aware Prompt Tuning" [arXiv Preprint](https://arxiv.org/abs/2409.18395)
+
+S. Alharbi and A. Khan, "Ensemble Defense System: A Hybrid IDS Approach for Effective Cyber Threat Detection," 2023 33rd International Telecommunication Networks and Applications Conference, Melbourne, Australia, 2023, pp. 267-270, doi: 10.1109/ITNAC59571.2023.10368510. [arXiv Preprint](https://arxiv.org/abs/2401.03491)
 
 A. Khan and C. Cotton, "Detecting Attacks on IoT Devices using Featureless 1D-CNN," 2021 IEEE International Conference on Cyber Security and Resilience (CSR), 2021, pp. 461-466, doi: [10.1109/CSR51186.2021.9527910](https://ieeexplore.ieee.org/document/9527910)<br/>
 [arXiv Preprint](https://arxiv.org/abs/2109.03989)
@@ -63,15 +65,8 @@ Below is the list of some formally documented projects that I have worked on
 
 ### Talks and Webinars
 
-Webinar
-
 - [International Webinar on "Offense vs. Defense: How to differentiate between offensive and defensive modes of cyber activity"](https://github.com/arshiyak9/arshiyak9.github.io/blob/main/Talks%20and%20Presentations/offenceVsDefence.pdf)
 - [Seminar on "Phishing Attacks" at English Language Institure at University of Delaware](https://github.com/arshiyak9/arshiyak9.github.io/blob/main/Talks%20and%20Presentations/Phishing.pdf)
-
-Internal Talks
-
-- [Novelty Search in Evolutionary Computations](https://github.com/arshiyak9/arshiyak9.github.io/blob/main/Talks%20and%20Presentations/Novelty%20Search%20in%20Evolutionary%20Computations.pdf)
-- [Foundations of GPT-3](https://github.com/arshiyak9/arshiyak9.github.io/blob/main/Talks%20and%20Presentations/gpt3.pdf)
 
 
 ### Certifications
