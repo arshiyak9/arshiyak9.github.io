@@ -14,7 +14,7 @@ Visa status: Approved i-485, i-140, awaiting PR
 
 ### Publications
 
-Arshiya Khan and Guannan Liu and Xing Gao, "Code Vulnerability Repair with Large Language Model using Context-Aware Prompt Tuning" [arXiv Preprint] [https://arxiv.org/abs/2409.18395]
+Arshiya Khan and Guannan Liu and Xing Gao, "Code Vulnerability Repair with Large Language Model using Context-Aware Prompt Tuning" [arXiv Preprint][https://arxiv.org/abs/2409.18395]
 
 A. Khan and C. Cotton, "Detecting Attacks on IoT Devices using Featureless 1D-CNN," 2021 IEEE International Conference on Cyber Security and Resilience (CSR), 2021, pp. 461-466, doi: [10.1109/CSR51186.2021.9527910](https://ieeexplore.ieee.org/document/9527910)<br/>
 [arXiv Preprint](https://arxiv.org/abs/2109.03989)
