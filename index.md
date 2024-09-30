@@ -1,15 +1,14 @@
-## Welcome to the GitHub Page of Arshiya Khan
-Work status: Valid EAD available
-
-Visa status: Approved i-485, i-140, awaiting PR
-
 [Google Scholar](https://scholar.google.com/citations?user=Jz96BT4AAAAJ)
 
-[Medium Blog](https://arshiyak.medium.com/)
+[Medium](https://arshiyak.medium.com/)
 
 [Resume](https://github.com/arshiyak9/arshiyak9.github.io/blob/main/Arshiya_khan_resume.pdf)
 
 [LinkedIn](https://www.linkedin.com/in/arshiyak9)
+
+Work status: Valid EAD available
+
+Visa status: Approved i-485, i-140, awaiting PR
 
 
 ### Publications
