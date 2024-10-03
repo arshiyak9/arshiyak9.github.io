@@ -13,7 +13,7 @@ Visa status: Approved i-485, i-140, awaiting PR
 
 ### Publications
 
-Arshiya Khan and Guannan Liu and Xing Gao, "Code Vulnerability Repair with Large Language Model using Context-Aware Prompt Tuning" [arXiv Preprint](https://arxiv.org/abs/2409.18395)
+Arshiya Khan and Guannan Liu and Xing Gao, "Code Vulnerability Repair with Large Language Model using Context-Aware Prompt Tuning"
 
 S. Alharbi and A. Khan, "Ensemble Defense System: A Hybrid IDS Approach for Effective Cyber Threat Detection," 2023 33rd International Telecommunication Networks and Applications Conference, Melbourne, Australia, 2023, pp. 267-270, doi: 10.1109/ITNAC59571.2023.10368510. [arXiv Preprint](https://arxiv.org/abs/2401.03491)
 
