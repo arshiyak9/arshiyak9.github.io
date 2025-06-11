@@ -82,5 +82,5 @@ Below is the list of some formally documented projects that I have worked on
 - B. Tech. (Computer Science), U. P. Technical Univerity, India (2010-2014)
 
 ### Contact
-- Email: arshiyak@udel.edu, arshiyak9.mmmec@gmail.com
+- Email: arshiyak@udel.edu
 - Mob: +1(302)-317-6961
