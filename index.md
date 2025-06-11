@@ -69,7 +69,7 @@ Below is the list of some formally documented projects that I have worked on
 ### Talks and Webinars
 
 - [International Webinar on "Offense vs. Defense: How to differentiate between offensive and defensive modes of cyber activity"](https://github.com/arshiyak9/arshiyak9.github.io/blob/main/Talks%20and%20Presentations/offenceVsDefence.pdf)
-- [Seminar on "Phishing Attacks" at English Language Institure at University of Delaware](https://github.com/arshiyak9/arshiyak9.github.io/blob/main/Talks%20and%20Presentations/Phishing.pdf)
+- [Seminar on "Phishing Attacks" at English Language Institute at University of Delaware](https://github.com/arshiyak9/arshiyak9.github.io/blob/main/Talks%20and%20Presentations/Phishing.pdf)
 
 
 ### Certifications
@@ -79,7 +79,7 @@ Below is the list of some formally documented projects that I have worked on
 ### Education
 - Ph.D. (Network and Data Science), University of Delaware, Newark DE USA (2019-present)
 - M.S. (Cybersecurity), University of Delaware, Newark DE USA (2017-2019)
-- B. Tech. (Computer Science), U. P. Technical Univerity, India (2010-2014)
+- B. Tech. (Computer Science), U.P. Technical University, India (2010-2014)
 
 ### Contact
 - Email: arshiyak@udel.edu
