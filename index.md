@@ -6,16 +6,20 @@
 
 [LinkedIn](https://www.linkedin.com/in/arshiyak9)
 
-Work status: Valid EAD available
+Work status: Work authorization/ EAD available
 
 Visa status: Approved i-485, i-140, awaiting PR
 
 
 ### Publications
 
-Arshiya Khan and Guannan Liu and Xing Gao, "Code Vulnerability Repair with Large Language Model using Context-Aware Prompt Tuning"
+A. Khan, G. Liu and X. Gao, "Code Vulnerability Repair with Large Language Model using Context-Aware Prompt Tuning," in 2025 IEEE Security and Privacy Workshops (SPW), San Francisco, CA, USA, 2025, pp. 283-287, doi: [10.1109/SPW67851.2025.00040](https://doi.ieeecomputersociety.org/10.1109/SPW67851.2025.00040).
+<br/>
+[arXiv Preprint](https://arxiv.org/pdf/2409.18395)
 
-S. Alharbi and A. Khan, "Ensemble Defense System: A Hybrid IDS Approach for Effective Cyber Threat Detection," 2023 33rd International Telecommunication Networks and Applications Conference, Melbourne, Australia, 2023, pp. 267-270, doi: 10.1109/ITNAC59571.2023.10368510. [arXiv Preprint](https://arxiv.org/abs/2401.03491)
+S. Alharbi and A. Khan, "Ensemble Defense System: A Hybrid IDS Approach for Effective Cyber Threat Detection," 2023 33rd International Telecommunication Networks and Applications Conference, Melbourne, Australia, 2023, pp. 267-270, doi: 10.1109/ITNAC59571.2023.10368510.
+<br/>
+[arXiv Preprint](https://arxiv.org/abs/2401.03491)
 
 A. Khan and C. Cotton, "Detecting Attacks on IoT Devices using Featureless 1D-CNN," 2021 IEEE International Conference on Cyber Security and Resilience (CSR), 2021, pp. 461-466, doi: [10.1109/CSR51186.2021.9527910](https://ieeexplore.ieee.org/document/9527910)<br/>
 [arXiv Preprint](https://arxiv.org/abs/2109.03989)
