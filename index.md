@@ -6,9 +6,6 @@
 
 [LinkedIn](https://www.linkedin.com/in/arshiyak9)
 
-Work status: Work authorization/ EAD available
-
-Visa status: Approved i-485, i-140, awaiting PR
 
 
 ### Publications
