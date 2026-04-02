@@ -12,7 +12,7 @@
 
 A. Khan, G. Liu and X. Gao, "Code Vulnerability Repair with Large Language Model using Context-Aware Prompt Tuning," in 2025 IEEE Security and Privacy Workshops (SPW), San Francisco, CA, USA, 2025, pp. 283-287, doi: [10.1109/SPW67851.2025.00040](https://doi.ieeecomputersociety.org/10.1109/SPW67851.2025.00040).
 <br/>
-[arXiv Preprint](https://arxiv.org/pdf/2409.18395)
+[arXiv Preprint](https://arxiv.org/pdf/2409.18395) [GitHub](https://github.com/arshiyak9/arshiyak9.github.io/tree/main/Publications/Code%20vulnerability%20repair%20with%20large%20language%20model%20using%20context-aware%20prompt%20tuning)
 
 S. Alharbi and A. Khan, "Ensemble Defense System: A Hybrid IDS Approach for Effective Cyber Threat Detection," 2023 33rd International Telecommunication Networks and Applications Conference, Melbourne, Australia, 2023, pp. 267-270, doi: 10.1109/ITNAC59571.2023.10368510.
 <br/>
