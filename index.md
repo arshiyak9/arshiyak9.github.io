@@ -12,14 +12,14 @@
 
 A. Khan, G. Liu and X. Gao, "Code Vulnerability Repair with Large Language Model using Context-Aware Prompt Tuning," in 2025 IEEE Security and Privacy Workshops (SPW), San Francisco, CA, USA, 2025, pp. 283-287, doi: [10.1109/SPW67851.2025.00040](https://doi.ieeecomputersociety.org/10.1109/SPW67851.2025.00040).
 <br/>
-[arXiv Preprint](https://arxiv.org/pdf/2409.18395) [GitHub](https://github.com/arshiyak9/arshiyak9.github.io/tree/main/Publications/Code%20vulnerability%20repair%20with%20large%20language%20model%20using%20context-aware%20prompt%20tuning)
+[arXiv Preprint](https://arxiv.org/pdf/2409.18395) [GitHub Code](https://github.com/arshiyak9/arshiyak9.github.io/tree/main/Publications/Code%20vulnerability%20repair%20with%20large%20language%20model%20using%20context-aware%20prompt%20tuning)
 
 S. Alharbi and A. Khan, "Ensemble Defense System: A Hybrid IDS Approach for Effective Cyber Threat Detection," 2023 33rd International Telecommunication Networks and Applications Conference, Melbourne, Australia, 2023, pp. 267-270, doi: 10.1109/ITNAC59571.2023.10368510.
 <br/>
 [arXiv Preprint](https://arxiv.org/abs/2401.03491)
 
 A. Khan and C. Cotton, "Detecting Attacks on IoT Devices using Featureless 1D-CNN," 2021 IEEE International Conference on Cyber Security and Resilience (CSR), 2021, pp. 461-466, doi: [10.1109/CSR51186.2021.9527910](https://ieeexplore.ieee.org/document/9527910)<br/>
-[arXiv Preprint](https://arxiv.org/abs/2109.03989) [GitHub](https://github.com/arshiyak9/arshiyak9.github.io/tree/main/Publications/Detecting%20attacks%20on%20IOT%20devices%20using%20featureless%201D-CNN)
+[arXiv Preprint](https://arxiv.org/abs/2109.03989) [GitHub Code](https://github.com/arshiyak9/arshiyak9.github.io/tree/main/Publications/Detecting%20attacks%20on%20IOT%20devices%20using%20featureless%201D-CNN)
 
 Khan, Arshiya, and Chase Cotton. “Efficient Attack Detection in IOT Devices Using Feature Engineering-Less Machine Learning.” International Journal of Computer Science and Information Technology, vol. 14, no. 6, 2022, pp. 47–64., [https://doi.org/10.5121/ijcsit.2022.14605](https://doi.org/10.5121/ijcsit.2022.14605).
 
@@ -34,33 +34,31 @@ Below is the list of some formally documented projects that I have worked on
 
 ### M.S. Thesis
 
-[Expansive Taxonomy Model of network traffic to perform machine learning based tasks like anomaly detection and malware classification](https://www.proquest.com/docview/2308191862?pq-origsite=gscholar&fromopenview=true)
+[Expansive Taxonomy Model of network traffic to perform machine learning-based tasks like anomaly detection and malware classification](https://www.proquest.com/docview/2308191862?pq-origsite=gscholar&fromopenview=true)
 
+
+### Languages
+```markdown
+- R, Python, MATLAB, Java, C, C++, SQL
+```
 
 ### ML Skills
 ```markdown
-
-- Software/Frameworks: PyTorch, TensorFlow, Keras, Transformers, 
-- Tools: OpenCV, PIL, Pandas, Numpy, scikit-learn, Matplotlib, NLP, Google Colab, Jupyter Notebook
-- Languages: R, Python, MATLAB, Java, C, C++, SQL
-
+- ML Frameworks: Anomaly detection, Vulnerability detection, LLM safety, Natural language processing (NLP), Time series modeling, Statistical analyses
+- ML Tools: PyTorch, TensorFlow, Keras, Transformers, OpenCV, PIL, Pandas, Numpy, scikit-learn
 ```
 
 ### Cybersecurity Skills
 ```markdown
-
-- Cybersecurity Frameworks: pwntools, NIST
-- Cybersecurity Tools: Docker, Radare2, Zeek, Wireshark, Snort, Burp Suite, Metasploit
-
+- Cybersecurity Frameworks: Packet analysis, Network traffic analysis, Pen testing, Reverse engineering, System hardening, Cryptography
+- Cybersecurity Tools: pwntools, Radare2, Zeek, Wireshark, Snort, Burp Suite, Metasploit
 ```
 
 ### Other Skills
 ```markdown
-
-- Frameworks: Google Firebase, AWS, Git, JIRA
+- Project Management Frameworks: Google Firebase, Docker, AWS, Git, JIRA
 - Databases: MySQL, Oracle, SQLite
 - Web Technologies: jQuery, React, HTML, CSS, JavaScript
-
 ```
 
 ### Talks and Webinars
@@ -74,7 +72,7 @@ Below is the list of some formally documented projects that I have worked on
 - ITIL Foundation 2017
 
 ### Education
-- Ph.D. (Network and Data Science), University of Delaware, Newark DE USA (2019-present)
+- Ph.D. (Electrical & Computer Engineering), University of Delaware, Newark DE USA (2019-2026(expected))
 - M.S. (Cybersecurity), University of Delaware, Newark DE USA (2017-2019)
 - B. Tech. (Computer Science), U.P. Technical University, India (2010-2014)
 
