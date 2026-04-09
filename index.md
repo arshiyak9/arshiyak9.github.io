@@ -7,7 +7,6 @@
 [LinkedIn](https://www.linkedin.com/in/arshiyak9)
 
 
-
 ### Publications
 
 A. Khan, G. Liu and X. Gao, "Code Vulnerability Repair with Large Language Model using Context-Aware Prompt Tuning," in 2025 IEEE Security and Privacy Workshops (SPW), San Francisco, CA, USA, 2025, pp. 283-287, doi: [10.1109/SPW67851.2025.00040](https://doi.ieeecomputersociety.org/10.1109/SPW67851.2025.00040).
@@ -24,17 +23,19 @@ A. Khan and C. Cotton, "Detecting Attacks on IoT Devices using Featureless 1D-CN
 Khan, Arshiya, and Chase Cotton. “Efficient Attack Detection in IOT Devices Using Feature Engineering-Less Machine Learning.” International Journal of Computer Science and Information Technology, vol. 14, no. 6, 2022, pp. 47–64., [https://doi.org/10.5121/ijcsit.2022.14605](https://doi.org/10.5121/ijcsit.2022.14605).
 
 
+### M.S. Thesis
+
+[Expansive Taxonomy Model of network traffic to perform machine learning-based tasks like anomaly detection and malware classification](https://www.proquest.com/docview/2308191862?pq-origsite=gscholar&fromopenview=true)
+<br/>
+[Preprint](https://github.com/arshiyak9/arshiyak9.github.io/blob/main/Publications/A%20feature%20taxonomy%20for%20network%20traffic/A%20feature%20taxonomy%20for%20network%20traffic.pdf)
+
+
 ### Academic Projects & Posters
 Below is the list of some formally documented projects that I have worked on
 
 - [Sound Classification using 1D-Convolutional Neural Networks](https://github.com/arshiyak9/arshiyak9.github.io/blob/main/Posters/SoundClassification.pdf)
 - [Defending against Adversarial Machine Learning In Image Recognition Models](https://github.com/arshiyak9/arshiyak9.github.io/blob/main/Posters/DefenseAgainstMLAttacks.pdf)
 - [TwitterBot Detection and Categorization](https://github.com/arshiyak9/arshiyak9.github.io/blob/main/Projects/%23BotAttack.pdf) 
-
-
-### M.S. Thesis
-
-[Expansive Taxonomy Model of network traffic to perform machine learning-based tasks like anomaly detection and malware classification](https://www.proquest.com/docview/2308191862?pq-origsite=gscholar&fromopenview=true)
 
 
 ### Languages
